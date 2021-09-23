@@ -21,6 +21,9 @@ public class CaracteresEspeciales {
         System.out.println("  \b"+centro);
         System.out.println("\'"+centro+"'");
         System.out.println("\""+centro+"\"");
+        int num=4;
+        String nombre="Yh";
+        System.out.println(nombre+num);
     }
     
 }
